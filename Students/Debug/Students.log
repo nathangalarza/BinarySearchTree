@@ -1,0 +1,55 @@
+﻿  Main.cpp
+d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarysearchtree.h : warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarynodetree.h(84): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarynodetree.h(103): note: see reference to class template instantiation 'BinaryNodeTree<ItemType>' being compiled
+d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarynodetree.h(89): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarynodetree.h(408): warning C5043: 'BinaryNodeTree<ItemType>::getRootData': exception specification does not match previous declaration
+  d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarynodetree.h(84): note: see declaration of 'BinaryNodeTree<ItemType>::getRootData'
+d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarynodetree.h(443): warning C5043: 'BinaryNodeTree<ItemType>::getEntry': exception specification does not match previous declaration
+  d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarynodetree.h(89): note: see declaration of 'BinaryNodeTree<ItemType>::getEntry'
+d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarysearchtree.h(39): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarysearchtree.h(54): note: see reference to class template instantiation 'BinarySearchTree<ItemType>' being compiled
+d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarysearchtree.h(40): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarysearchtree.h(45): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarysearchtree.h(217): warning C5043: 'BinarySearchTree<ItemType>::getRootData': exception specification does not match previous declaration
+  d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarysearchtree.h(39): note: see declaration of 'BinarySearchTree<ItemType>::getRootData'
+d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarysearchtree.h(225): warning C5043: 'BinarySearchTree<ItemType>::setRootData': exception specification does not match previous declaration
+  d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarysearchtree.h(40): note: see declaration of 'BinarySearchTree<ItemType>::setRootData'
+d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarysearchtree.h(248): warning C5043: 'BinarySearchTree<ItemType>::getEntry': exception specification does not match previous declaration
+  d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarysearchtree.h(44): note: see declaration of 'BinarySearchTree<ItemType>::getEntry'
+d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\studenttestscore.h(117): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\main.cpp(27): warning C4101: 'Modify': unreferenced local variable
+d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarysearchtree.h(248): warning C5043: 'BinarySearchTree<StudentTestScores>::getEntry': exception specification does not match previous declaration
+  d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarysearchtree.h(44): note: see declaration of 'BinarySearchTree<StudentTestScores>::getEntry'
+  d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarysearchtree.h(248): note: while compiling class template member function 'ItemType BinarySearchTree<ItemType>::getEntry(const ItemType &) throw(NotFoundException) const'
+          with
+          [
+              ItemType=StudentTestScores
+          ]
+  d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\main.cpp(87): note: see reference to function template instantiation 'ItemType BinarySearchTree<ItemType>::getEntry(const ItemType &) throw(NotFoundException) const' being compiled
+          with
+          [
+              ItemType=StudentTestScores
+          ]
+  d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\main.cpp(16): note: see reference to class template instantiation 'BinarySearchTree<StudentTestScores>' being compiled
+d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarynodetree.h(443): warning C5043: 'BinaryNodeTree<ItemType>::getEntry': exception specification does not match previous declaration
+          with
+          [
+              ItemType=StudentTestScores
+          ]
+  d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarynodetree.h(89): note: see declaration of 'BinaryNodeTree<ItemType>::getEntry'
+          with
+          [
+              ItemType=StudentTestScores
+          ]
+  d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarynodetree.h(443): note: while compiling class template member function 'ItemType BinaryNodeTree<ItemType>::getEntry(const ItemType &) throw(NotFoundException) const'
+          with
+          [
+              ItemType=StudentTestScores
+          ]
+  d:\natha\desktop\polytechnic university of puerto rico fall 2018\data structures\proyects\proyect 5\students\students\binarysearchtree.h(13): note: see reference to class template instantiation 'BinaryNodeTree<ItemType>' being compiled
+          with
+          [
+              ItemType=StudentTestScores
+          ]
+  Students.vcxproj -> D:\natha\Desktop\Polytechnic University of Puerto Rico Fall 2018\Data Structures\Proyects\Proyect 5\Students\Debug\Students.exe
